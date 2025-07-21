@@ -98,7 +98,7 @@
 [![Phoniphaleia VS](https://github-readme-stats.vercel.app/api/pin/?username=harudayoo&repo=phoniphaleia-vs&theme=radical&hide_border=true)](https://github.com/harudayoo/phoniphaleia-vs)
 [![DRMD ECT System](https://github-readme-stats.vercel.app/api/pin/?username=harudayoo&repo=DRMD-ECT-System&theme=radical&hide_border=true)](https://github.com/harudayoo/DRMD-ECT-System)
 
-[![Waste Management System - Arduino](https://github-readme-stats.vercel.app/api/pin/?username=harudayoo&repo=DRMD-ECT-System&theme=radical&hide_border=true)](https://github.com/Alfcht/Arduino---Waste-Segregation-System)
+[![Waste Management System - Arduino](https://github-readme-stats.vercel.app/api/pin/?username=harudayoo&repo=Arduino---Waste-Segregation-System&theme=radical&hide_border=true)](https://github.com/Alfcht/Arduino---Waste-Segregation-System)
 
 </div>
 
