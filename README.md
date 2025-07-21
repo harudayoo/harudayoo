@@ -92,13 +92,9 @@
 
 <div align="center">
 
-[![Phi Beta Kappa](https://github-readme-stats.vercel.app/api/pin/?username=harudayoo&repo=Phi-Beta-Kappa&theme=radical&hide_border=true)](https://github.com/harudayoo/Phi-Beta-Kappa)
 [![Paul AWS](https://github-readme-stats.vercel.app/api/pin/?username=harudayoo&repo=Paul-AWS&theme=radical&hide_border=true)](https://github.com/harudayoo/Paul-AWS)
-
 [![Phoniphaleia VS](https://github-readme-stats.vercel.app/api/pin/?username=harudayoo&repo=phoniphaleia-vs&theme=radical&hide_border=true)](https://github.com/harudayoo/phoniphaleia-vs)
 [![DRMD ECT System](https://github-readme-stats.vercel.app/api/pin/?username=harudayoo&repo=DRMD-ECT-System&theme=radical&hide_border=true)](https://github.com/harudayoo/DRMD-ECT-System)
-
-[![Waste Management System - Arduino](https://github-readme-stats.vercel.app/api/pin/?username=Alfcht&repo=Arduino---Waste-Segregation-System&theme=radical&hide_border=true)](https://github.com/Alfcht/Arduino---Waste-Segregation-System)
 
 </div>
 
